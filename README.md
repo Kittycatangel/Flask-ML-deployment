@@ -9,3 +9,12 @@ After Armin Ronacher’s initial release of Flask in 2010, the framework has gai
 pip install Flask
 
 Once Flask is installed, create a text file named REST _ API.py,  with following code presented in the jupyter notebook 'flask_deploy.ipynb' in this repository
+
+# Test
+
+To test the REST API, run it in Terminal by entering the following command:
+python REST_API.py
+
+# Conclustion
+
+We know now how to deploy your machine learning model using the Flask micro-framework.  Now, you should now have a pretty good understanding of the fundamentals of machine learning!
