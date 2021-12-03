@@ -1,4 +1,5 @@
 # Flask-ML-deployment
+![image](https://user-images.githubusercontent.com/53411455/144684562-f7d4d5bc-57ea-4237-861c-a36dd2eb4bbf.png)
 
 # Introduction
  
@@ -9,6 +10,9 @@ After Armin Ronacher’s initial release of Flask in 2010, the framework has gai
 pip install Flask
 
 Once Flask is installed, create a text file named REST _ API.py,  with following code presented in the jupyter notebook 'flask_deploy.ipynb' in this repository
+
+![image](https://user-images.githubusercontent.com/53411455/144684578-933d489f-5724-4e9a-b22a-c1629966de3d.png)
+
 
 # Test
 
