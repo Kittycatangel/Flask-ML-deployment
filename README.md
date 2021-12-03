@@ -1,4 +1,5 @@
-# Flask-ML-deployment
+# Flask machine learning deployment
+
 ![image](https://user-images.githubusercontent.com/53411455/144684562-f7d4d5bc-57ea-4237-861c-a36dd2eb4bbf.png)
 
 # Introduction
